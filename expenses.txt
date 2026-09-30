@@ -1,0 +1,4 @@
+food,dinein,1200.0
+shoping,zara,30090.0
+trevel,flight,1200.0
+food,canteen,500.0
